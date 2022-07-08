@@ -1,0 +1,21 @@
+{
+  "name": "flakio",
+  "description": "Flack io client app",
+  "main": "index.js",
+  "authors": [
+    "Trent Swanson <trent@fullscale180.com>"
+  ],
+  "license": "ISC",
+  "homepage": "http://flak.io",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
